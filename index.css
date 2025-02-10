@@ -6,7 +6,8 @@ div h1 {
 }
 img {
   float: right;
-  border-radius: 100%;
+  width: auto;
+  border-radius: 7200px;
 }
 .center {
   position: absolute;
